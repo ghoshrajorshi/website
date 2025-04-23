@@ -1,0 +1,31 @@
+body { 
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-top: 24px;
+  margin-bottom: 40px;
+}
+
+h1 {
+  color: #805757;
+}
+
+p {
+  font-family: sans-serif;
+  
+}
+
+.blueText {
+  color: blue;
+}
+
+#accomp {
+  background-color: #95984f;
+  padding: 20px;
+  border-radius: 12px;
+
+}
+
+#whiteHeading {
+  color: white;
+  font-family: Helvetica;
+}
